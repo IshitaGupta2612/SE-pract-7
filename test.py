@@ -1,1 +1,1 @@
-print("deploy pipeline")
+print("test pipeline")
